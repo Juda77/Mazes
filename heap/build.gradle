@@ -1,0 +1,10 @@
+
+sourceSets.main.studentJava.files = [
+        'priorityqueues/ArrayHeapMinPQ.java'
+]
+
+allprojects {
+    dependencies {
+        implementation project(':maps')
+    }
+}
