@@ -7,4 +7,4 @@ Creates,visualizes, and solves mazes for the user. The whole program is presente
   <b>This is a class project, and the visual components were created by other students</b>. I implemented Dijkstra's and Kruskal's algorithms, as well
 as the min heap and disjoint sets data structures.
 
-![alt text](https://github.com/Juda77/CalculusComputer/blob/master/images/isaac-newton-lit.jpg)
+![alt text](https://github.com/Juda77/Mazes/blob/master/images/mazes-ex1.png)
