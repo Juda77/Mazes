@@ -8,3 +8,5 @@ Creates,visualizes, and solves mazes for the user. The whole program is presente
 as the min heap and disjoint sets data structures.
 
 ![alt text](https://github.com/Juda77/Mazes/blob/master/images/mazes-ex1.png)
+  ![alt text](https://github.com/Juda77/Mazes/blob/master/images/lolmeme.jpg)
+  
