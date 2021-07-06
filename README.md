@@ -6,6 +6,7 @@ Creates,visualizes, and solves mazes for the user. The whole program is presente
 
   <b>The visual components were created by other students</b>. I implemented Dijkstra's algorithm and Kruskal's algorithm, as well
 as the min heap and disjoint sets data structures.
+  <p>Sample of the program:</p>
 
 ![alt text](https://github.com/Juda77/Mazes/blob/master/images/mazes-ex1.png)
   ![alt text](https://github.com/Juda77/Mazes/blob/master/images/lolmeme.jpg)
